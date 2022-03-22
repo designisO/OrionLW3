@@ -1,6 +1,6 @@
 # OrionLW3 Token
 
-In this project I was able to create a simple ERC20 coin using hardhat and solidity. This is a project for LearnWeb3.io.
+In this project I was able to create a simple ERC20 coin using hardhat and solidity. The token is deployed on the eth testnet Rinkeby. Implemented the alchemy API as well. 
 
 ```shell
 npx hardhat accounts
